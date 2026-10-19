@@ -1,0 +1,25 @@
+cluster	detailed_cell_type	broad_cell_type
+0	Naive T cells	T cells
+1	CD4 memory T cells	T cells
+2	CD8 T cells	T cells
+3	Classical monocytes	Monocytes
+4	B cells	B cells
+5	NK cells	NK cells
+6	NK T cells	NK cells
+7	B cells	B cells
+8	Naive CD8 T cells	T cells
+9	Platelets	Platelets
+10	Non-classical monocytes	Monocytes
+11	NK T cells	NK cells
+12	NK T cells	NK cells
+13	Platelets	Platelets
+14	B cells	B cells
+15	Inflammatory monocytes	Monocytes
+16	Dendritic cells	Dendritic cells
+17	B cells	B cells
+18	Neutrophil-like cells	Monocytes
+19	IFN-stimulated cells	T cells
+20	Cycling cells	T cells
+21	Plasmacytoid dendritic cells	Plasmacytoid dendritic cells
+22	Erythrocytes	Erythrocytes
+23	Plasma cells	Plasma cells

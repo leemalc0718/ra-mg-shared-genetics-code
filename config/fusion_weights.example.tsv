@@ -1,0 +1,5 @@
+tissue	position_file	weights_dir
+Whole_Blood	reference/fusion/weights/GTExv8.EUR.Whole_Blood.pos	reference/fusion/weights
+Lung	reference/fusion/weights/GTExv8.EUR.Lung.pos	reference/fusion/weights
+Spleen	reference/fusion/weights/GTExv8.EUR.Spleen.pos	reference/fusion/weights
+EBV_Lymphocytes	reference/fusion/weights/GTExv8.EUR.Cells_EBV-transformed_lymphocytes.pos	reference/fusion/weights

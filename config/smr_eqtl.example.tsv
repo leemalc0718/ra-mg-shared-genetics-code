@@ -1,0 +1,6 @@
+tissue	beqtl_prefix
+Whole_Blood	reference/smr/GTEx_V8_Whole_Blood
+Lung	reference/smr/GTEx_V8_Lung
+Spleen	reference/smr/GTEx_V8_Spleen
+EBV_Lymphocytes	reference/smr/GTEx_V8_Cells_EBV-transformed_lymphocytes
+eQTLGen	reference/smr/eQTLGen_cis

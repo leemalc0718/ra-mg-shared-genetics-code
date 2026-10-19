@@ -1,0 +1,9 @@
+cluster	detailed_cell_type	broad_cell_type
+0	Dendritic cells	Dendritic cells
+1	Memory T cells	T cells
+2	Monocytes	Monocytes
+3	B cells	B cells
+4	Activated T cells	T cells
+5	Plasma cells	Plasma cells
+6	NK cells	NK cells
+7	Erythrocytes	Erythrocytes

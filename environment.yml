@@ -1,0 +1,16 @@
+name: ra-mg-shared-genetics
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.3
+  - r-data.table
+  - r-yaml
+  - r-optparse
+  - r-ggplot2
+  - r-patchwork
+  - r-seurat
+  - r-remotes
+  - bioconductor-mungesumstats
+  - python=3.11
+  - plink=1.90b6.21
